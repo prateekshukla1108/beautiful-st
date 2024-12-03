@@ -5,7 +5,9 @@
 Break Free from Inefficiency
 Say goodbye to slow, cumbersome terminals that hinder your productivity. Our terminal emulator is designed to be the fastest and most efficient in the world, providing a seamless user experience that lets you focus on what matters most - getting work done.
 A Terminal that not Just Works but works beautifully
-Tired of terminals that promise the world but fail to deliver? This terminal emulator is built on a foundation of simplicity, stability, and ease of use. With features like sixel image support, XResources color integration, and beautiful font rendering, you'll wonder how you ever managed without it.
+
+Tired of terminals that promise the world but fail to deliver? or that has as many bugs as there are r's in strawberry. This terminal emulator is built on a foundation of simplicity, stability, and ease of 
+use. With features like sixel image support, XResources color integration, and beautiful font rendering, you'll wonder how you ever managed without it.
 
 ## What Sets it Apart
 
